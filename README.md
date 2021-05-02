@@ -8,8 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-99&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sungmin9513)](https://solved.ac/sungmin9513)
-## Work experience 🤹‍♀️
-- ...
+## Where to work 🤹‍♀️
+- hnu sophomore
 
 ## Interest 👀
 - Problem Sorving
