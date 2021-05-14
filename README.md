@@ -7,7 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-99&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sungmin9513)](https://solved.ac/sungmin9513)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin9513)](https://solved.ac/sungmin9513)
 ## Where to work 🤹‍♀️
 - hnu sophomore
 
