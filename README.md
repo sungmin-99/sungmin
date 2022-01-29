@@ -10,7 +10,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungmin9513)](https://solved.ac/sungmin9513)
 ## Where to work 🤹‍♀️
-- hnu sophomore
 
 ## Interest 👀
 - Problem Sorving
