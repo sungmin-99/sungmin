@@ -13,4 +13,3 @@
 
 ## Interest 👀
 - Problem Sorving
-- Backend Development
